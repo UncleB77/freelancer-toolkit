@@ -25,22 +25,6 @@ A comprehensive web application designed to help freelancers manage their work e
 - Local storage persistence
 - Quick access to important information
 
-## Tech Stack
-
-- React 18
-- TypeScript
-- React Router
-- CSS3
-- LocalStorage API
-- jsPDF (for PDF generation)
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v14 or higher)
-- npm (v6 or higher)
-
 ### Installation
 
 1. Clone the repository:
@@ -80,21 +64,3 @@ npm start
 - Edit notes by clicking on them
 - Delete notes using the trash icon
 - All changes are automatically saved
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Built with ❤️ for freelancers
-- Inspired by the need for better project management tools
-- Thanks to all contributors and supporters
