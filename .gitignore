@@ -27,3 +27,23 @@ yarn-error.log*
 .vscode/
 *.swp
 *.swo
+
+# Build files
+*.log
+*.gz
+*.zip
+*.rar
+*.7z
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+# Cache
+.cache/
+.npm/
+.eslintcache
