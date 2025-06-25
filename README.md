@@ -1,7 +1,6 @@
 # Freelancer Toolkit
 
-A comprehensive web application designed to help freelancers manage their work efficiently. Built with React, TypeScript, and modern web technologies.
-
+A small productivity suite built for freelancers and independent creators. This toolkit includes a basic invoice generator, a personal notes section, and a simple interactive calendar — all designed with minimal, customizable HTML.
 ## Features
 
 ### 📅 Project Calendar
@@ -64,3 +63,7 @@ npm start
 - Edit notes by clicking on them
 - Delete notes using the trash icon
 - All changes are automatically saved
+
+### About the Author
+Built by UncleB77, a frontend developer creating useful tools for real-world freelance work.
+Reach out for freelance collaborations or contributions.
