@@ -24,6 +24,18 @@ A small productivity suite built for freelancers and independent creators. This 
 - Local storage persistence
 - Quick access to important information
 
+## 📸 Screenshots
+
+### 🧾 Invoice Generator
+![Invoice Screenshot](./assets/invoice.png)
+
+### 📅 Calendar
+![Calendar Screenshot](./assets/calendar.png)
+
+### 🗒️ Notes Section
+![Notes Screenshot](./assets/notes.png)
+
+
 ### Installation
 
 1. Clone the repository:
