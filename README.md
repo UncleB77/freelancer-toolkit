@@ -1,48 +1,63 @@
-# Freelancer Toolkit
+# 🧰 Freelancer Toolkit
 
-A small productivity suite built for freelancers and independent creators. This toolkit includes a basic invoice generator, a personal notes section, and a simple interactive calendar — all designed with minimal, customizable HTML.
-## Features
+A lightweight productivity suite for freelancers and independent creators. This toolkit includes a simple invoice generator, an interactive project calendar, and a note-taking section — all in one place, built with React and TypeScript.
 
-### 📅 Project Calendar
-- Visual calendar view of project timelines
-- Add, edit, and delete projects
-- Track project status (Not Started, In Progress, Completed)
-- Automatic date calculations
-- Local storage persistence
+---
+
+## 🔗 Live Demo
+
+Try it live:
+
+- [🏠 Home](https://uncleb77.github.io/freelancer-toolkit/)
+- [🧾 Invoice Generator](https://uncleb77.github.io/freelancer-toolkit/#/invoice)
+- [📅 Project Calendar](https://uncleb77.github.io/freelancer-toolkit/#/calendar)
+- [🗒️ Notes Section](https://uncleb77.github.io/freelancer-toolkit/#/notes)
+
+---
+
+## ✨ Features
 
 ### 🧾 Invoice Generator
-- Create professional invoices
-- Customize invoice details
-- Export invoices as PDF
-- Save invoice templates
-- Calculate totals automatically
+- Create and customize professional invoices
+- Add line items and calculate totals automatically
+- Export as PDF
+- Save invoice templates for reuse
+
+### 📅 Project Calendar
+- Plan and visualize project timelines
+- Track project status (Not Started, In Progress, Completed)
+- Add, edit, and delete tasks
+- Saves your data locally
 
 ### 📝 Quick Notes
-- Create and manage notes
-- Rich text editing
-- Automatic saving
-- Local storage persistence
-- Quick access to important information
+- Write and manage notes in a clean interface
+- Rich text editing and auto-saving
+- Notes are stored locally so nothing is lost
+
+---
 
 ## 📸 Screenshots
 
-### 🧾 Invoice Generator
+### Invoice Generator
 ![Invoice Screenshot](./assets/invoice.png)
 
-### 📅 Calendar
+### Project Calendar
 ![Calendar Screenshot](./assets/calendar.png)
 
-### 🗒️ Notes Section
+### Notes Section
 ![Notes Screenshot](./assets/notes.png)
 
+---
+
+## 🚀 Getting Started
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/freelancer-toolkit.git
-cd freelancer-toolkit
-```
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/UncleB77/freelancer-toolkit.git
+   cd freelancer-toolkit
+
 
 2. Install dependencies:
 ```bash
