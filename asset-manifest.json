@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/freelancer-toolkit/static/css/main.2c54c5ab.css",
+    "main.css": "/freelancer-toolkit/static/css/main.1ea814bf.css",
     "main.js": "/freelancer-toolkit/static/js/main.3e9fa6af.js",
     "static/js/239.bf87aad1.chunk.js": "/freelancer-toolkit/static/js/239.bf87aad1.chunk.js",
     "static/js/977.83f1dfc9.chunk.js": "/freelancer-toolkit/static/js/977.83f1dfc9.chunk.js",
     "static/js/455.ffe5ae35.chunk.js": "/freelancer-toolkit/static/js/455.ffe5ae35.chunk.js",
     "static/js/453.3aa5ff8f.chunk.js": "/freelancer-toolkit/static/js/453.3aa5ff8f.chunk.js",
     "index.html": "/freelancer-toolkit/index.html",
-    "main.2c54c5ab.css.map": "/freelancer-toolkit/static/css/main.2c54c5ab.css.map",
+    "main.1ea814bf.css.map": "/freelancer-toolkit/static/css/main.1ea814bf.css.map",
     "main.3e9fa6af.js.map": "/freelancer-toolkit/static/js/main.3e9fa6af.js.map",
     "239.bf87aad1.chunk.js.map": "/freelancer-toolkit/static/js/239.bf87aad1.chunk.js.map",
     "977.83f1dfc9.chunk.js.map": "/freelancer-toolkit/static/js/977.83f1dfc9.chunk.js.map",
@@ -15,7 +15,7 @@
     "453.3aa5ff8f.chunk.js.map": "/freelancer-toolkit/static/js/453.3aa5ff8f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c54c5ab.css",
+    "static/css/main.1ea814bf.css",
     "static/js/main.3e9fa6af.js"
   ]
 }
