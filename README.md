@@ -48,6 +48,14 @@ Try it live:
 ![Notes Screenshot](./assets/notes.png)
 
 ---
+## ⚙️ Tech Stack
+
+- ⚛️ React
+- ⌨️ TypeScript
+- 💨 Tailwind CSS
+- 🛠️ Vite
+
+---
 
 ## 🚀 Getting Started
 
